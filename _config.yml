@@ -1,16 +1,16 @@
 # Site settings
-title: Uditanshu Saxena
+title: Ajay Navilarekal Rajgopal
 description: >
-  I am pursuing B.tech Computer Science from M.I.E.T, I am intrested in Ethical Hacking and Web Development.  
+  I am a master's graduate in Computational Sciences in Engineering interested in Data Science, Deep Learning and Causality
 
 baseurl: "/resume" # the subpath of your site, e.g. /blog/
-url: "https://saxenaudit.github.io" # the base hostname & protocol for your site
+url: "https://ajaynr.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Uditanshu Saxena
-  github: saxenaudit
-  linkedin: uditanshusaxena
-  email: uditanshusaxena@email.com
+  fullname: Ajay Navilarekal Rajgopal
+  github: ajaynr
+  linkedin: ajaynr
+  email: ajaynr1995@gmail.com
 
 
 # Syntax highlighting
